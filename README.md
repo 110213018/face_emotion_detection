@@ -24,7 +24,7 @@ pip install opencv-python deepface pymysql
 ```
 
 ## Usage
-1. Create database named **face_detect**</br>
+1. Create database named **face_detect** in MySQL</br>
 2. run program
 ```bash
 py face_date.py
