@@ -21,3 +21,11 @@ Install the required libraries using pip:
 
 ```bash
 pip install opencv-python deepface pymysql
+```
+
+## Usage
+1. Create database named **face_detect**</br>
+2. run program
+```bash
+py face_date.py
+```
